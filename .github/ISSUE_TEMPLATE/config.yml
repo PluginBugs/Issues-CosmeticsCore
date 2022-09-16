@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord server
+    url: https://discord.gg/sMAE3Na
+    about: My personal Discord server
+  - name: CosmeticsCore wiki
+    url: http://a.devs.beer/git-wiki-issue
+    about: Official wiki of CosmeticsCore
+  - name: CosmeticsCore Polymart page
+    url: https://polymart.org/resource/2879
+    about: Official Polymart page of CosmeticsCore
