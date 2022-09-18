@@ -11,9 +11,9 @@ body:
           required: true
         - label: I already searched on this [Github page](https://github.com/PluginBugs/Issues-CosmeticsCore/issues) to check if the same issue was already reported.
           required: true
-        - label: I already searched on the [plugin wiki](https://CosmeticsCore.devs.beer/) to know if a solution is already known.
+        - label: I already searched on the [plugin wiki](https://lonedev.gitbook.io/cosmeticscore/) to know if a solution is already known.
           required: true
-        - label: I already asked on the **#💬ia-community-help** channel on **Discord** to know if anyone already has a solution for the issue.
+        - label: I already searched on the **Discord** server to know if anyone already provided a solution in the past for the issue.
           required: true
   - type: input
     id: discord_tag
