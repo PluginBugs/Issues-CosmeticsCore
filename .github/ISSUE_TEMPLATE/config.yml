@@ -4,8 +4,8 @@ contact_links:
     url: https://discord.gg/sMAE3Na
     about: My personal Discord server
   - name: CosmeticsCore wiki
-    url: http://a.devs.beer/git-wiki-issue
+    url: https://cosmeticscore.devs.beer/
     about: Official wiki of CosmeticsCore
-  - name: CosmeticsCore Polymart page
-    url: https://polymart.org/resource/2879
-    about: Official Polymart page of CosmeticsCore
+  - name: CosmeticsCore Spigot page
+    url: https://www.spigotmc.org/resources/105324/
+    about: Official Spigot page of CosmeticsCore
