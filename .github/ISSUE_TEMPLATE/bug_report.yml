@@ -76,17 +76,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: lonelibs_version
-    attributes:
-      label: LoneLibs Version
-      placeholder: |
-        DO NOT WRITE 'LATEST', run command `/version LoneLibs` and paste it here.
-        
-        Example:
-        LoneLibs version 2.4.17
-    validations:
-      required: true
-  - type: textarea
     id: full_server_log
     attributes:
       label: FULL server log
